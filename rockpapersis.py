@@ -76,7 +76,7 @@ def rpsls(guess):
     return 0
 
 rpsls("rock")
-rpsls("Spock")
+rpsls("spock")
 rpsls("paper")
 rpsls("lizard")
 rpsls("scissors")
