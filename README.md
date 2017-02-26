@@ -11,4 +11,4 @@ This repository has mini games made in python using simplegui library in codesku
 3. GuessTheNumber- Simple guessing the number game which can be easily won. ;)<br>
 4. RockPaperScissor- Authentic rock paper scissor with a twist of five options.<br>
 5. Pong- The old arcade ping pong which brought revolution to gaming.
-6. SpaceShip- The arcade space ship rock shooting game.
+6. SpaceRock- The arcade space ship rock shooting game.
